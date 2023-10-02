@@ -14,21 +14,27 @@
 ---
 
 1. 정지 상태
+
    <img src = "./img/20231003_000653.jpg" width="350" height="200">
 
 2. 1단 상태
+
    <img src = "./img/20231003_000708.jpg" width="350" height="200">
 
 3. 2단 상태
+
    <img src = "./img/20231003_000715.jpg" width="350" height="200">
 
 4. 3단 상태
+
    <img src = "./img/20231003_000720.jpg" width="350" height="200">
 
 5. 3단에서 회전 상태
+
    <img src = "./img/20231003_000727.jpg" width="350" height="200">
 
 6. Timer 작동
+
    <img src = "./img/20231003_000749.jpg" width="350" height="200">
 
 7. 동영상
