@@ -1,5 +1,6 @@
 # Simple Fan
 
+stm32로 만든 간단한 기능을 하는 선풍기
 ---
 
 ### clock 주파수 100MHz
