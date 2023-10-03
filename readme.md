@@ -1,6 +1,7 @@
 # Simple Fan
 
-stm32로 만든 간단한 기능을 하는 선풍기
+ stm32로 만든 간단한 기능을 하는 선풍기
+
 ---
 
 ### clock 주파수 100MHz
@@ -39,4 +40,5 @@ stm32로 만든 간단한 기능을 하는 선풍기
    <img src = "./img/20231003_000749.jpg" width="350" height="200">
 
 7. 동영상
+
    [시연 동영상](https://photos.onedrive.com/share/F234627C186506A6!7074?cid=F234627C186506A6&resId=F234627C186506A6!7074&authkey=!AKWiqnF5VARFWU8&ithint=video&e=Pcex3M)
